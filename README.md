@@ -6,7 +6,7 @@ This repository provides a corpus for two endangered languages of the [Zaza-Gora
 
 ![alt text](Zaza-Gorani-languages.png "Zazaki and Gorani languages within the Indo-European language family")
 
-We also report our efforts in collecting documents in various topics from news websites andcreate the first corpus for Zazaki and Gorani.  We believe that this corpus can pave the way for furtherdevelopments in linguistics and computer science, particularly in information retrieval and NLP wherelanguage modeling is beneficial to various applications such as grammatical and spell checkin
+We also report our efforts in collecting documents in various topics from news websites andcreate the first corpus for Zazaki and Gorani.  We believe that this corpus can pave the way for furtherdevelopments in linguistics and computer science, particularly in information retrieval and NLP wherelanguage modeling is beneficial to various applications such as grammatical and spell checking.
 
 ## Cite this corpus
 If you're using this corpus, please don't forget to cite the following paper. 
