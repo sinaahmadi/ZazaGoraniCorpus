@@ -2,6 +2,10 @@
 ##### For more information, see [this blog post](https://sinaahmadi.github.io/resources/zzahaccorpus.html).
 ---
 
+✨ **Update December 2022**: A corpus of [Southern Kurdish](https://en.wikipedia.org/wiki/Southern_Kurdish), more precisely Feyli, is added.
+
+---
+
 This repository provides a corpus for two endangered languages of the [Zaza-Gorani language family](https://en.wikipedia.org/wiki/Zaza%E2%80%93Gorani_languages): [Zazaki](https://en.wikipedia.org/wiki/Zaza%E2%80%93Gorani_languages) and [Gorani](https://en.wikipedia.org/wiki/Gorani_language). These two languages along with [Shabaki](https://en.wikipedia.org/wiki/Shabaki_language) are the three languages belonging to the Zaza-Gorani language family and are popularly believed to belong to [Kurdish](https://en.wikipedia.org/wiki/Kurdish_languages). In [this paper](https://sinaahmadi.github.io/docs/articles/ahmadi2020zazagorani.pdf), we discuss how these languages are different from Kurdish, particularly the [Sorani](https://en.wikipedia.org/wiki/Sorani) and [Kurmanji](https://en.wikipedia.org/wiki/Kurmanji) dialects, in terms of phonetics, morphology and syntax.
 
 ![alt text](Zaza-Gorani-languages.png "Zazaki and Gorani languages within the Indo-European language family")
